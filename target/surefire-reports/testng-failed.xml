@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="autoTests.googleCloudTests.ChatBotTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="checkAppearingChatBot"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.googleCloudTests.ChatBotTest -->
+      <class name="autoTests.googleCloudTests.HardcoreTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="checkPrisingCalculatorTest"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.googleCloudTests.HardcoreTest -->
+      <class name="autoTests.googleCloudTests.RequiredFieldsTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="checkHighlightedRequiredFieldsTest"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.googleCloudTests.RequiredFieldsTest -->
+      <class name="autoTests.googleCloudTests.HurtMePlentyTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="checkPrisingCalculatorTest"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.googleCloudTests.HurtMePlentyTest -->
+      <class name="autoTests.pastBinTests.CreateNewPasteTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="creationNewPasteWithBashSyntaxTest"/>
+          <include name="creationNewPasteWithParamTest"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.pastBinTests.CreateNewPasteTest -->
+      <class name="autoTests.googleCloudTests.CertificationTest">
+        <methods>
+          <include name="browserQuite"/>
+          <include name="checkingAbilityToRegistrOnCertificationTest"/>
+          <include name="browserSetUp"/>
+        </methods>
+      </class> <!-- autoTests.googleCloudTests.CertificationTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
