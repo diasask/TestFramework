@@ -1,0 +1,15 @@
+2022-06-23 23:25:14.191 [main] INFO   - Pricing calculator page open!
+2022-06-23 23:25:20.314 [main] INFO   - Operation system field is filled! 
+2022-06-23 23:25:21.062 [main] INFO   - Machine type field is filled! 
+2022-06-23 23:25:21.228 [main] INFO   - Number of instances field is filled! 
+2022-06-23 23:25:21.388 [main] INFO   - Add GPU checkbox is marked!
+2022-06-23 23:25:21.418 [main] INFO   - Page is scroll to Sole Tenant Nodes field
+2022-06-23 23:25:22.264 [main] INFO   - Gpu type field is filled!
+2022-06-23 23:25:22.289 [main] INFO   - Page is scroll to Sole Tenant Nodes field
+2022-06-23 23:25:23.056 [main] INFO   - Number of GPU field is filled!
+2022-06-23 23:25:23.825 [main] INFO   - Local SSD field is filled!
+2022-06-23 23:25:24.775 [main] INFO   - Region field is filled!
+2022-06-23 23:25:25.569 [main] INFO   - Commited usage field is filled!
+2022-06-23 23:25:25.843 [main] INFO   - Add estimate button is clicked
+2022-06-23 23:25:29.618 [main] INFO   - New tab Yopmail.com is opened
+2022-06-23 23:26:00.874 [main] INFO   - Pricing calculator page open!
